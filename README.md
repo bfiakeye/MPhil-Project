@@ -7,6 +7,6 @@ This repository contains `Appendix 1` and the following folders in the `Project.
 - `QC data` contains quality controlled data used for the two D-genome diversity panels
 - `Yield Distribition WISH` contains histograms of yield distribution across the five locations
 
-The data can be downloaded [Project.zip](https://github.com/bfiakeye/MPhil-Project/blob/main/Project.zip) 
+The data can be downloaded [Project.zip](https://github.com/bfiakeye/MPhil-Project/raw/main/Project.zip)
 
 Note: The repository contains a folder called `Project.zip` containing all the folders described above.
